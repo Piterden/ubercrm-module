@@ -27,15 +27,6 @@ class ComplaintTableBuilder extends TableBuilder
     protected $columns = [];
 
     /**
-     * The table buttons.
-     *
-     * @var array|string
-     */
-    protected $buttons = [
-        'edit'
-    ];
-
-    /**
      * The table actions.
      *
      * @var array|string
