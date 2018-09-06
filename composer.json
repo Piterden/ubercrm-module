@@ -1,0 +1,9 @@
+{
+    "name": "defr/crm-module",
+    "type": "streams-addon",
+    "autoload": {
+        "psr-4": {
+            "Defr\\CrmModule\\": "src/"
+        }
+    }
+}
